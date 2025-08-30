@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/the-wiki/2.-Atlas/1.-The-Northern-Expanse/Taverns/The-Familiar-Hearth'><strong>The Familiar Hearth</strong> </a> <br> Tavern of Respite </center>",
+                "marker-group": "Tavern",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4,280
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/the-wiki/2.-Atlas/3.-Taverns--and--Shops/Rainees-Herbs--and--Poultices'><strong>Rainee's Herbs and Poultices</strong> </a> <br> Herbalist & Apothecary </center>",
+                "marker-group": "Apothecary",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1464,532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Mayoral Longhouse</strong> </a> <br> City Hall of Respite </center>",
+                "marker-group": "City_Hall",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -376,356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Market Square</strong> </a> <br> Shops, Merchants and Traders </center>",
+                "marker-group": "Shop",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -174,-396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Hall of the Trinity</strong> </a> <br> Church of Respite <br> Dedicated to the <a href='https://master-noiza.github.io/the-wiki/3.-Gods--and--Religion/3.-The-Trinity/'><strong>Triage</strong> </a> </center>",
+                "marker-group": "Church",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -918,50
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Shrine of The Nine</strong> </a> <br> Shrine of Respite <br> Dedicated to the <a href='https://master-noiza.github.io/the-wiki/3.-Gods--and--Religion/4.-The-Nine/'><strong>Nine</strong> </a> </center>",
+                "marker-group": "Shrine",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1150,884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Respite Stables</strong> </a> </center>",
+                "marker-group": "Stables",
+                "ID": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -468,-436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Respite Fishery & Docks</strong> </a> </center>",
+                "marker-group": "Fishery",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -330,828
+                ]
+            }
+        }
+	]
+}
